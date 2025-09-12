@@ -20,7 +20,7 @@ TARGET_STOCK_GAPPS := true
 BLISS_BUILDTYPE := OFFICIAL
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := bliss_mojito
+PRODUCT_NAME := lineage_mojito
 PRODUCT_DEVICE := mojito
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi Note 10
